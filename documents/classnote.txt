@@ -13,12 +13,12 @@ Text Instruction___________________________________
     📌 Requirements -->
 
         1. Navbar Section
-            • Logo/Website name on the left.
-            • Sign Up Button on the right.
+            • Logo/Website name on the left. ✅
+            • Sign Up Button on the right. ✅
 
         2. Banner Section (10 Marks)
-            • Heading in the center. (3)
-            • Stay Focused button in the center. (3)
+            • Heading in the center. (3) ✅
+            • Stay Focused button in the center. (3) ✅
 
         3. Action Section
             Left Side:
