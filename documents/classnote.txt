@@ -10,63 +10,64 @@
 
 Text Instruction___________________________________
 
+    📌 Requirements -->
+
+        1. Navbar Section
+            • Logo/Website name on the left.
+            • Sign Up Button on the right.
+
+        2. Banner Section (10 Marks)
+            • Heading in the center. (3)
+            • Stay Focused button in the center. (3)
+
+        3. Action Section
+            Left Side:
+                • Title
+                • Subtitle
+                • Launch Live Preview Button
+            Right Side:
+                • Image
+
+        4. Productive Users Section
+            • Background color to separate the section.
+            • Centered title.
+            • 3 data with subtitle placed side by side.
+
+        5. Let’s Get In Touch Section (10 Marks)
+            Left Side:
+                • Section Title
+            Right Side:
+                • Label + Input for Name, Email & Message
+                • Get in Touch button
+
+        6. Footer Section
+            Centered:
+                • Website name
+                • Subtitle
+                • Links: Home, About, How it works, Services
+
+        7. Users’ Feedback Section
+                • Star icon
+                • Title and Subtitle
+                • Reviewer Image, Name, and Date
+
+        8. Button Animation
+            Hover effect or animation on the all the buttons.
+
+    📌 Rules -->
+
+        ✅ Minimum 5 meaningful commits required.
+        ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
+
+    📌 What I have to submit -->
+
+        📂 GitHub Repository: <my-repo-link>
+        🌐 Live Link: <my-repo-live-link>
 
 
 
 
-Video 01___________________________________________
-
-
-
-
-
-
-Video 02___________________________________________
-
-
-
-
-
-
-
-
-Video 03___________________________________________
- 
-
-
-
-
-
-Video 04___________________________________________
-
-
-
-
-
-
-Video 05___________________________________________
-
-
-
-
-
-Video 06___________________________________________
-
-
-
-
-
-Video 07___________________________________________
-
-
-
-
-Video 08___________________________________________
-
-
-
-
-Video 09___________________________________________
+My note____________________________________________
 
 
 
