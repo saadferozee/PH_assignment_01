@@ -22,11 +22,11 @@ Text Instruction___________________________________
 
         3. Action Section
             Left Side:
-                • Title
-                • Subtitle
-                • Launch Live Preview Button
+                • Title ✅
+                • Subtitle ✅
+                • Launch Live Preview Button ✅
             Right Side:
-                • Image
+                • Image ✅
 
         4. Productive Users Section
             • Background color to separate the section.
