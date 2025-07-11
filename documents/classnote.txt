@@ -29,30 +29,30 @@ Text Instruction___________________________________
                 • Image ✅
 
         4. Productive Users Section
-            • Background color to separate the section.
-            • Centered title.
-            • 3 data with subtitle placed side by side.
+            • Background color to separate the section. ✅
+            • Centered title. ✅
+            • 3 data with subtitle placed side by side. ✅
 
         5. Let’s Get In Touch Section (10 Marks)
             Left Side:
-                • Section Title
+                • Section Title ✅
             Right Side:
-                • Label + Input for Name, Email & Message
-                • Get in Touch button
+                • Label + Input for Name, Email & Message ✅
+                • Get in Touch button ✅
 
         6. Footer Section
             Centered:
-                • Website name
-                • Subtitle
-                • Links: Home, About, How it works, Services
+                • Website name ✅
+                • Subtitle ✅
+                • Links: Home, About, How it works, Services ✅
 
         7. Users’ Feedback Section
-                • Star icon
-                • Title and Subtitle
-                • Reviewer Image, Name, and Date
+                • Star icon ✅
+                • Title and Subtitle ✅
+                • Reviewer Image, Name, and Date ✅
 
         8. Button Animation
-            Hover effect or animation on the all the buttons.
+            Hover effect or animation on the all the buttons. ✅
 
     📌 Rules -->
 
@@ -73,15 +73,12 @@ My note____________________________________________
 
 
 --------------------------------------------------
-    Pause { 00.07.2025 THU 00:00 PM } to { 00.07.2025 THU 00:00 PM }
+    Pause { none } to { none }
 --------------------------------------------------
-
-PRACTICE TASK --->
-
 
 
 
 © Saad_Ferozee
 --------------------------------------------------
-    End { 00.07.2025 WED 00:00 AM }
+    End { 11.07.2025 FRI 08:59 AM }
 --------------------------------------------------

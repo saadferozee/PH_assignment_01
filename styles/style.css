@@ -8,7 +8,8 @@
 img {
     width: 100%;
 }
-main section {
+main section,
+footer {
     margin-top: 120px;
 }
 
@@ -106,6 +107,7 @@ nav {
 .logo-text {
     color: #413bf9;
     text-shadow: 2px 2px 10px #4e47ff8a;
+    text-shadow:  0 0 0 1px whitesmoke ;
 }
 /* hero section */
 .hero-items {
@@ -182,7 +184,8 @@ nav {
     font-size: 22px;
     margin-top: 10px;
 }
-.review-card p {
+.review-card p,
+.get-started-container p {
     font-size: 16px;
     margin: 15px 0;
 }
@@ -195,4 +198,75 @@ nav {
 }
 .reviewer-name h3 {
     font-size: 18px;
+}
+
+/* get started container */
+.get-started-container {
+    padding: 70px 150px;
+}
+.get-started-container p {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+.get-started-container img {
+    border-radius: 48px;
+    margin: 30px auto;
+}
+
+/* form container */
+.form-container div {
+    width: 45%;
+}
+.form-text h1 {
+    font-size: 90px;
+    color: #413bf9;
+}
+.form-field {
+    gap: 10px;
+}
+.form-field label {
+    font-size: 18px;
+}
+.form-field input,
+.form-field textarea {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 20px;   
+}
+.form-field textarea {
+    min-height: 200px;
+}
+
+
+/* footer */
+footer {
+    min-height: 400px;
+    background-color: #f2eded50;
+    box-shadow: 0 5px 30px #00000020 inset;
+}
+.footer h1 {
+    font-size: 100px;
+    color: #4e47ff;
+}
+.footer p {
+    margin: 30px auto;
+    font-size: 18px;
+}
+.links {
+    max-width: 35%;
+    margin: 30px auto;
+    gap: 20px;
+}
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    color: #00000080;
+}
+.link:hover {
+    font-weight: 700;
+    font-size: 20px;
+    color: #00000040;
+    text-shadow: 0 0 30px #000000;
+    transition: 0.5s;
 }
