@@ -19,6 +19,9 @@ main section {
     margin-left: auto;
     margin-right: auto;
 }
+.flex {
+    display: flex;
+}
 .flex-b {
     display: flex;
     justify-content: space-between;
@@ -55,8 +58,11 @@ main section {
 .raleway-default-regular {
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 400 !important;
     font-style: normal;
+}
+.lite-color-text {
+    color: #25242360;
 }
 
 /* buttons */
@@ -92,6 +98,7 @@ main section {
 /* header */
 header {
     background-image: url("../assets/images/Hero-bg.png");
+
 }
 nav {
     padding: 50px;
@@ -129,7 +136,6 @@ nav {
 }
 .action-content-para {
     font-size: 24px;
-    color: #25242360;
     margin-bottom: 40px;
 }
 .action-img img {
@@ -144,7 +150,7 @@ nav {
     background-color: #4e47ff10;
 }
 
-.count-title {
+.title {
     font-size: 38px;
     margin: 40px 0;
 }
@@ -157,6 +163,36 @@ nav {
 }
 .count-result h4 {
     font-family: "Inter", sans-serif;
-    color: #25242360;
     font-size: 20px;
+}
+
+.review-card {
+    width: 28%;
+    background-color: #faebd750;
+    border: 1px solid #f2eded50;
+    border-radius: 14px;
+    box-shadow: 5px 5px 30px #f2eded;
+    padding: 24px;
+}
+.review-card h5 {
+    color: #ffd700;
+    font-size: 16px;
+}
+.review-card h3 {
+    font-size: 22px;
+    margin-top: 10px;
+}
+.review-card p {
+    font-size: 16px;
+    margin: 15px 0;
+}
+.reviewer {
+    margin-top: 10px;
+    gap: 10px;
+}
+.user-img-box img {
+    width: 55px;
+}
+.reviewer-name h3 {
+    font-size: 18px;
 }
